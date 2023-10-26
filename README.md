@@ -58,7 +58,7 @@ src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge
                     
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username={KedarKK1}
 https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
-[![@kedarkk1's Holopin board](https://holopin.io/api/user/board?user=kedarkk1)](https://holopin.io/@kedarkk1)
+[![@ABHISHEKSOUNDALGEKAR's Holopin board](https://holopin.io/api/user/board?user=kedarkk1)](https://holopin.io/@kedarkk1)
 
 # 📊 My Github Stats:
 
@@ -73,7 +73,7 @@ https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
    
    ## Top Languages Used
    
-  <p><a align="center" href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Kedar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KedarKK1&langs_count=8&count_private=true&layout=compact&theme=dark" /></a></p>
+  <p><a align="center" href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Abhishek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KedarKK1&langs_count=8&count_private=true&layout=compact&theme=dark" /></a></p>
     
   </div>
 </div>
@@ -97,19 +97,19 @@ https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
 
 </details>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/KedarKK1?ext=heatmap&animation=true)](https://leetcode.com/KedarKK1)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/KedarKK1?ext=heatmap&animation=true)](https://leetcode.com/)
 
 </details>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=KedarKK1&label=Profile%20views&color=0e75b6&style=flat" alt="KedarKK1Views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KedarKK1&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekViews" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KedarKK1" alt="KedarKK1" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KedarKK1" alt="AbhishekSoundalgekar" /></a> </p>
  <!-- uncomment below to see 🙄-->
  
 <!--  hi -->
 # 📫 You can reach me: 
 - <a href="mailto:officialkedark1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
- <a target="_href" href="https://www.linkedin.com/in/kedar-koshti-700804218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn" /></a>
+ <a target="_href" href="https://www.linkedin.com/in/abhishekmsoundalgekar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn" /></a>
 <!-- - ⚡ Fun fact: ... -->
 
 <img align="right" src="https://c.tenor.com/SS_YqhEMYq8AAAAC/bhool-bhulaiyaa-akshay-kumar-aditya.gif"  width="500" height="400" />
@@ -118,4 +118,4 @@ https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
 
 ### Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/{KedarKK1}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{ABHISHEKSOUNDALGEKAR}/count.svg)
