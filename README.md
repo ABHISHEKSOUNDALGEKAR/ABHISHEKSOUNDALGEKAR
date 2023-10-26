@@ -8,7 +8,7 @@
 ### <h1 align="center">Namaste! Welcome to my Github profile here <span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px" /></span> </h1>
 
 <!-- ### <h1 align="center">Arigato! Welcome to my Github profile here 👋</h1></div> -->
-<!-- **KedarKK1/KedarKK1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **ABHISHEKSOUNDALGEKAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- <img src="https://ahseeit.com/anime/king-include/uploads/2021/02/thumb_132737489_324041068657176_2031507643025332624_n-2650150931.jpg"> -->
 <!-- Here are some ideas to get you started: -->
 <div align="right">
@@ -24,11 +24,11 @@
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&duration=5019&multiline=true&height=60&lines=A+zealous+Full+Stack+Developer+;%26+A+Tech+enthusiast+from+India)  -->
 
 - 🎓 Fourth (Final) Year Computer Engineering student at Pune Institute of Computer Technology, Pune. (PICT)
-- 🔭 I’m currently working on few Web, app & blockchain-development projects...
+- 🔭 I’m currently working on few Web, app, ML & blockchain-development projects...
 - 🌱 I’m currently learning AWS and cloud computing...
-- 👯 I’m looking to collaborate on various web, app & blockchain-development Projects. Feel free to collaborate....<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Web/App/Blockchain-Development querries...
-- ✨I love watching anime and sit-coms....
+- 👯 I’m looking to collaborate on various web, app, ML & blockchain-development Projects. Feel free to collaborate....<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about Web/App/ML/Blockchain-Development querries...
+- ✨I love playing Football and various other sports....
 
 # 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 - <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"  alt="python" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" /><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" /><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp" />
@@ -66,7 +66,7 @@ https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
 <div style="display: flex;">
   <div style="flex: 1;">
    
- ![Kedar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KedarKK1&show_icons=true&theme=dark)
+ ![Kedar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABHISHEKSOUNDALGEKAR&show_icons=true&theme=dark)
     
   </div>
   <div style="flex: 1;">
@@ -108,7 +108,7 @@ https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
  
 <!--  hi -->
 # 📫 You can reach me: 
-- <a href="mailto:officialkedark1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+- <a href="mailto:abhimsound@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
  <a target="_href" href="https://www.linkedin.com/in/abhishekmsoundalgekar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn" /></a>
 <!-- - ⚡ Fun fact: ... -->
 
