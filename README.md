@@ -114,8 +114,8 @@ https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
 
 <img align="right" src="https://c.tenor.com/SS_YqhEMYq8AAAAC/bhool-bhulaiyaa-akshay-kumar-aditya.gif"  width="500" height="400" />
 
-# Bye <span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px" /></span>
+# Byee <span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px" /></span>
 
-### Visitor Count
+### Visitor Count 
 
 ![Visitor Count](https://profile-counter.glitch.me/{ABHISHEKSOUNDALGEKAR}/count.svg)
