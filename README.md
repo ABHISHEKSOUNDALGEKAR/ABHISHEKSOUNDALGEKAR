@@ -97,7 +97,7 @@ https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
 
 </details>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/ABHISHEKSOUNDALGEKAR?ext=heatmap&animation=true)](https://leetcode.com/u/abhishek_soundalgekar/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/abhishek_soundalgekar?ext=heatmap&animation=true)](https://leetcode.com/u/abhishek_soundalgekar/)
 
 </details>
 
