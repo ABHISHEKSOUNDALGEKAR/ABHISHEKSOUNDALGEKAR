@@ -24,7 +24,7 @@
 
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&duration=5019&multiline=true&height=60&lines=A+zealous+Full+Stack+Developer+;%26+A+Tech+enthusiast+from+India)  -->
 
-- 🎓 Fourth (Final) Year Computer Engineering student at Pune Institute of Computer Technology, Pune. (PICT)
+- 🎓 Currently a MSCS Student at USC, Computer Engineering student from Pune Institute of Computer Technology, Pune. (PICT)
 - 🔭 I’m currently working on few Web, app, ML & blockchain-development projects...
 - 🌱 I’m currently learning AWS and cloud computing...
 - 👯 I’m looking to collaborate on various web, app, ML & blockchain-development Projects. Feel free to collaborate....<!-- - 🤔 I’m looking for help with ... -->
