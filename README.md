@@ -59,7 +59,7 @@ src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge
                     
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username={KedarKK1}
 https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
-[![@ABHISHEKSOUNDALGEKAR's Holopin board](https://holopin.io/api/user/board?user=kedarkk1)](https://holopin.io/@kedarkk1)
+<!-- [![@ABHISHEKSOUNDALGEKAR's Holopin board](https://holopin.io/api/user/board?user=kedarkk1)](https://holopin.io/@kedarkk1) -->
 
 # 📊 My Github Stats:
 
@@ -67,7 +67,7 @@ https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
 <div style="display: flex;">
   <div style="flex: 1;">
    
- ![Kedar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABHISHEKSOUNDALGEKAR&show_icons=true&theme=dark)
+ ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABHISHEKSOUNDALGEKAR&show_icons=true&theme=dark)
     
   </div>
   <div style="flex: 1;">
@@ -92,7 +92,7 @@ https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
 
 <!-- ![snake svg](https://github.com/jheel05/jheel05/blob/main/github-contribution-grid-snake.svg)  -->
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KedarKK1&theme=tokyonight" />
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KedarKK1&theme=tokyonight" /> -->
 
 ## Leetcode Stats
 
@@ -102,9 +102,9 @@ https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
 
 </details>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=KedarKK1&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekViews" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ABHISHEKSOUNDALGEKAR&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekViews" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KedarKK1" alt="AbhishekSoundalgekar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ABHISHEKSOUNDALGEKAR" alt="AbhishekSoundalgekar" /></a> </p>
  <!-- uncomment below to see 🙄-->
  
 <!--  hi -->
