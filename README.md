@@ -104,7 +104,7 @@ https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ABHISHEKSOUNDALGEKAR&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekViews" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ABHISHEKSOUNDALGEKAR" alt="AbhishekSoundalgekar" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ABHISHEKSOUNDALGEKAR" alt="AbhishekSoundalgekar" /></a> </p> -->
  <!-- uncomment below to see 🙄-->
  
 <!--  hi -->
