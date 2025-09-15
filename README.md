@@ -16,7 +16,7 @@
 <!--  https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif -->
 <!--  https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fanonymous-hacker&psig=AOvVaw2AQO0VXW0Xcq39VIe6CfIV&ust=1749828351777000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCc7t2Y7I0DFQAAAAAdAAAAABAE -->
 <!--  https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966 -->
- <img align="right" src="https://pbs.twimg.com/profile_images/1927863949229178880/1MbaSaEQ_400x400.jpg" width="400" height="350" />
+ <img align="right" src="https://www.avast.com/hs-fs/hubfs/New_Avast_Academy/Hackers/Hacker-Hero-a1.png?width=1200&name=Hacker-Hero-a1.png" width="400" height="350" />
 <br>
 <!-- </div> -->
  
